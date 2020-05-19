@@ -1,0 +1,2 @@
+# BuildHomepageWithWordpress
+利用Github的学生包福利，借助Azure和wordpress搭建个人博客主页的教程
